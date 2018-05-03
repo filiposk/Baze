@@ -1,0 +1,5 @@
+DROP DATABASE IF EXISTS Djelatnik;
+
+CREATE DATABASE Djelatnik;
+
+USE Djelatnik;
